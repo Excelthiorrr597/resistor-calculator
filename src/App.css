@@ -1,0 +1,27 @@
+.App {
+  text-align: center;
+  margin-top: 15em;
+}
+
+select {
+  margin: 1em;
+  width: 100px;
+  border-radius: 5px;
+  -webkit-appearance: none;
+  padding: 0.5em 1em;
+  font-size: 1em;
+  background-color: #fff;
+  color: #05a;
+  font-weight: bold;
+}
+
+button {
+  display: block;
+  margin: 0 auto;
+  margin-top: 1em;
+  padding: 10px 1em;
+  border-radius: 5px;
+  background-color: #05a;
+  color: #fff;
+  font-size: 16px;
+}
